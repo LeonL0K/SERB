@@ -1,0 +1,61 @@
+id_clase,nombre_clase,nivel_riesgo,es_pirofita,es_invasora,notas_adicionales
+0,Abies religiosa,segura,PENDIENTE,PENDIENTE,
+1,Acacia pennatula,segura,PENDIENTE,PENDIENTE,
+2,Adiantum capillus-veneris,segura,PENDIENTE,PENDIENTE,
+3,Agave_spp,irritante,PENDIENTE,PENDIENTE,Savia con saponinas y oxalatos
+4,Alnus acuminata,segura,PENDIENTE,PENDIENTE,
+5,Arbutus_spp,segura,PENDIENTE,PENDIENTE,
+6,Asclepias curassavica,toxica,PENDIENTE,PENDIENTE,
+7,Baccharis salicifolia,segura,PENDIENTE,PENDIENTE,
+8,Buddleja sessiliflora,segura,PENDIENTE,PENDIENTE,
+9,Bursera_spp,segura,PENDIENTE,PENDIENTE,
+10,Castilleja tenuiflora,segura,PENDIENTE,PENDIENTE,
+11,Ceiba aesculifolia,segura,PENDIENTE,PENDIENTE,
+12,Cercocarpus macrophyllus,segura,PENDIENTE,PENDIENTE,
+13,Clethra rosei,segura,PENDIENTE,PENDIENTE,
+14,Cornus disciflora,segura,PENDIENTE,PENDIENTE,
+15,Cosmos bipinnatus,segura,PENDIENTE,PENDIENTE,
+16,Crataegus mexicana,segura,PENDIENTE,PENDIENTE,
+17,Cucurbita foetidissima,toxica,PENDIENTE,PENDIENTE,
+18,Cupressus lusitanica,segura,PENDIENTE,PENDIENTE,
+19,Dahlia coccinea,segura,PENDIENTE,PENDIENTE,
+20,Datura stramonium,toxica,PENDIENTE,PENDIENTE,Alcaloides tropánicos
+21,Dodonaea viscosa,segura,PENDIENTE,PENDIENTE,
+22,Erythrina flabelliformis,toxica,PENDIENTE,PENDIENTE,Semillas tóxicas
+23,Euphorbia tanquahuete,irritante,PENDIENTE,PENDIENTE,Látex irritante
+24,Ficus insipida,segura,PENDIENTE,PENDIENTE,
+25,Fraxinus uhdei,segura,PENDIENTE,PENDIENTE,
+26,Guazuma ulmifolia,segura,PENDIENTE,PENDIENTE,
+27,Ipomoea arborescens,segura,PENDIENTE,PENDIENTE,
+28,Jatropha curcas,toxica,PENDIENTE,PENDIENTE,Intoxicaciones pediátricas
+29,Juniperus flaccida,segura,PENDIENTE,PENDIENTE,
+30,Lantana camara,toxica,PENDIENTE,PENDIENTE,
+31,Lobelia laxiflora,toxica,PENDIENTE,PENDIENTE,
+32,Lysiloma acapulcense,segura,PENDIENTE,PENDIENTE,
+33,Mammillaria jaliscana,segura,PENDIENTE,PENDIENTE,Endémica
+34,Mirabilis jalapa,toxica,PENDIENTE,PENDIENTE,Semillas y raíces
+35,Montanoa tomentosa,toxica,PENDIENTE,PENDIENTE,Uterotónico
+36,Nolina parviflora,segura,PENDIENTE,PENDIENTE,
+37,Opuntia jaliscana,segura,PENDIENTE,PENDIENTE,
+38,Ostrya virginiana,segura,PENDIENTE,PENDIENTE,
+39,Passiflora exsudans,segura,PENDIENTE,PENDIENTE,
+40,Penstemon roseus,segura,PENDIENTE,PENDIENTE,
+41,Phytolacca icosandra,toxica,PENDIENTE,PENDIENTE,
+42,Pinus_spp,segura,PENDIENTE,PENDIENTE,Agrupación de 4 especies
+43,Plumeria rubra,irritante,PENDIENTE,PENDIENTE,Látex irritante
+44,Prunus serotina,toxica,PENDIENTE,PENDIENTE,Hojas y semillas (glucósidos)
+45,Pteridium aquilinum,toxica,PENDIENTE,PENDIENTE,Carcinógeno
+46,Quercus_spp,segura,PENDIENTE,PENDIENTE,Agrupación de 7 especies
+47,Ricinus communis,letal,PENDIENTE,PENDIENTE,Semillas altamente tóxicas
+48,Salix humboldtiana,segura,PENDIENTE,PENDIENTE,
+49,Salvia_spp,desconocida,PENDIENTE,PENDIENTE,Falta fuente citable
+50,Sedum jaliscanum,segura,PENDIENTE,PENDIENTE,Endémica
+51,Selaginella lepidophylla,segura,PENDIENTE,PENDIENTE,
+52,Solanum nigrescens,toxica,PENDIENTE,PENDIENTE,
+53,Solanum rostratum,toxica,PENDIENTE,PENDIENTE,
+54,Symphoricarpos microphyllus,toxica,PENDIENTE,PENDIENTE,Frutos eméticos
+55,Tagetes lucida,segura,PENDIENTE,PENDIENTE,
+56,Taxodium mucronatum,segura,PENDIENTE,PENDIENTE,
+57,Tillandsia recurvata,segura,PENDIENTE,PENDIENTE,
+58,Wigandia urens,irritante,PENDIENTE,PENDIENTE,Pelos urticantes
+59,Zinnia peruviana,segura,PENDIENTE,PENDIENTE,
